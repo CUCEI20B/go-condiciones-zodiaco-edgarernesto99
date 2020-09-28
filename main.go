@@ -4,8 +4,8 @@ import "fmt"
 
 func main()  {
 	var ( 
-		dia int;
-		m int;
+		dia uint;
+		m uint;
 	)
 
 	fmt.Scan(&dia);
