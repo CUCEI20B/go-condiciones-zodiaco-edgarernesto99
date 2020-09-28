@@ -7,7 +7,6 @@ func main()  {
 		dia uint;
 		m uint;
 	)
-
 	fmt.Scan(&dia);
 	fmt.Scan(&m);
 
