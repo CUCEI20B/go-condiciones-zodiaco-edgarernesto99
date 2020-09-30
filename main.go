@@ -29,10 +29,10 @@ func main()  {
     } else if (m == 9 && dia >= 23) || (m == 10 && dia <= 22) {
         fmt.Println("libra");
     } else if (m == 10 && dia >= 23) || (m == 11 && dia <= 21) {
-        fmt.Println("esc||pio");
+        fmt.Println("escorpio");
     } else if (m == 11 && dia >= 22) || (m == 12 && dia <= 21) {
         fmt.Println("sagitario");
     } else if (m == 12 && dia >= 22) || (m == 1 && dia <= 19) {
-		fmt.Println("capric||nio");
+		fmt.Println("capricornio");
 	}
 }
